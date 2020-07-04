@@ -17,10 +17,3 @@ En utilisant le CMS COTIGA, vous bénéficiez :
 * de fonctionnalités développées sur mesure selon vos souhaits
 
 Tout cela de la manière la plus ergonomique et intuitive possible.
-
-
-
-
-
-
-
