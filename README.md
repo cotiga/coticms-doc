@@ -1,3 +1,5 @@
+<p align="center"><a href="https://doc.cotiga.fr/" target="_blank"><img width="180" src="https://cotiga.fr/images/cotiga-loader.png"></a></p>
+
 ---
 description: Guide d'utilisation du CMS COTIGA
 ---
@@ -6,7 +8,7 @@ description: Guide d'utilisation du CMS COTIGA
 
 ![](.gitbook/assets/capt-ecran-2019-05-21-a-12.23.03.jpg)
 
- La solution CMS de COTIGA utilise le Framework CSS Bootstrap et est hébergée sur des serveurs Ubuntu LTS de dernières générations avec les technologies Nginx, PHP et MySQL. Ces technologies sont constamment mises à jours dans leurs dernières versions stables. Vous n'avez pas à vous soucier de la sécurité et de l'obsolescence de votre CMS COTIGA.
+La solution CMS de COTIGA utilise le Framework CSS Bootstrap et est hébergée sur des serveurs LTS de dernières générations avec les technologies Nginx, PHP et MySQL. Ces technologies sont constamment mises à jours dans leurs dernières versions stables. Vous n'avez pas à vous soucier de la sécurité et de l'obsolescence de votre CMS COTIGA.
 
 En utilisant le CMS COTIGA, vous bénéficiez :
 
