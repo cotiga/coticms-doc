@@ -13,5 +13,6 @@ Lorsque vous ajoutez des images aux diaporamas, elle seront automatiquement redi
 
 ![Aper&#xE7;u du rognage effectu&#xE9; sur une image destin&#xE9;e au diaporama](../.gitbook/assets/rognage.jpg)
 
-Prévoyez aussi une image assez large, sans cela elle sera étirée avec pour conséquence une perte de qualité.
+*Exemple de résultat, la partie net sera celle conservée après le redimensionnemment et le rognage de l'image.*
 
+Prévoyez aussi une image assez large, sans cela elle sera étirée avec pour conséquence une perte de qualité.
