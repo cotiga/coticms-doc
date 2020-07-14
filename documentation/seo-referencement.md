@@ -12,7 +12,7 @@ Votre page d'accueil et les pages statiques disposent de champs SEO.
 Ils sont au nombres de 2 :
 
 * SEO titre
-* SEO meta description
+* SEO description
 
 Ces champs renseignent les balises HTML "title" et "meta description" dont les renseignements sont indispensables pour le bon référencement de votre site Internet.
 
