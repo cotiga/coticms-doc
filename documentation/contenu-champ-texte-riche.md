@@ -48,6 +48,7 @@ Sous **Mac** vous disposez de "TextEdit" , mais il faut modifier ses préférenc
 ![](../.gitbook/assets/pref-textedit.jpg)
 
 ## Insertion image
+Pour un bon référencement, privilégiez l'usage d'images au format JPG !
 
 Là où nous avons apporté le plus d'améliorations, est sur l'insertion des images.
 
