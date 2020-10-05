@@ -10,6 +10,7 @@ Elle sont généralement aux alentours de :
 1680 pixels de large sur 550 pixels de hauteur.
 
 ## Important
+
 Privilégiez les images au format JPG, beaucoup plus léger que le PNG !
 
 Lorsque vous ajoutez des images aux diaporamas, elle seront automatiquement redimensionnées aux valeurs prédéfinies de votre site. Le rognage verticale se fera à parts égales sur le haut et le bas de l'image, prévoyez donc des images se prêtant à se découpage dans la hauteur.
@@ -17,3 +18,4 @@ Lorsque vous ajoutez des images aux diaporamas, elle seront automatiquement redi
 ![Aper&#xE7;u du rognage effectu&#xE9; sur une image destin&#xE9;e au diaporama](../.gitbook/assets/rognage.jpg)
 
 Prévoyez aussi une image assez large, sans cela elle sera étirée avec pour conséquence une perte de qualité.
+

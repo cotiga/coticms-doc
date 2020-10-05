@@ -22,7 +22,7 @@ Sous le bouton "Formats" vous trouverez différents sous-menus. Rien de compliqu
 
 Une erreur souvent commise et qui pénalise le succès de votre site, est de copier/coller du texte issu de Word par exemple. En collant directement ce texte dans votre site, vous y ajoutez tout le code \(invisible\) de mise en forme généré par Word. Cela est aussi le cas lorsque vous copiez/collez du texte pris sur un autre site Internet, depuis un PDF...
 
-L'exemple ci-dessous est issu du copié/collé d'un fichier Word de  2 pages standards sans mise en forme complexe.  
+L'exemple ci-dessous est issu du copié/collé d'un fichier Word de 2 pages standards sans mise en forme complexe.  
 Cela a généré 973 lignes de code, en grande majorité inutiles. Ce code sera stocké en base de données, ralentira le transfert sur l'internet et peut provoquer des conflits avec le code HTML du site.
 
 ![Code source issu de Word](../.gitbook/assets/editor2.jpg)
@@ -31,23 +31,24 @@ Cela a généré 973 lignes de code, en grande majorité inutiles. Ce code sera 
 
 **Passer par un éditeur de texte .txt** _\(non riche tel .rtf, .doc, ...\)_.
 
-Pour supprimer tout le formatage indésirable :  
-- collez le texte issu de Word, d'un PDF, d'un site Internet... dans Bloc Note \(ou équivalent, voir ci-dessous\)  
-- sélectionnez le texte du Bloc Note _\(Ctrl + A\)_ et copiez-le _\(Ctrl + C\)_  
-- vous pouvez maintenant le coller _\(Ctrl + V\)_ dans l'éditeur du site, il ne présentera aucune mise en forme, hormis des paragraphes.  
-- utilisez les outils de l'éditeur présent dans le site pour mettre en forme votre publication  
+Pour supprimer tout le formatage indésirable :
 
+* collez le texte issu de Word, d'un PDF, d'un site Internet... dans Bloc Note \(ou équivalent, voir ci-dessous\)  
+* sélectionnez le texte du Bloc Note _\(Ctrl + A\)_ et copiez-le _\(Ctrl + C\)_  
+* vous pouvez maintenant le coller _\(Ctrl + V\)_ dans l'éditeur du site, il ne présentera aucune mise en forme, hormis des paragraphes.  
+* utilisez les outils de l'éditeur présent dans le site pour mettre en forme votre publication  
 
 **Editeurs .txt**
 
 Sous **Windows** utilisez "**Bloc Note**", il est idéal pour l'édition de texte pur, sans mise en forme possible.
 
 Sous **Mac** vous disposez de "TextEdit" , mais il faut modifier ses préférences pour qu'il utilise le format .txt par défaut.  
-****Pour cela, ouvrez les préférences et cochez "Format texte" au lieu de "Format RTF"
+_\*\*_Pour cela, ouvrez les préférences et cochez "Format texte" au lieu de "Format RTF"
 
 ![](../.gitbook/assets/pref-textedit.jpg)
 
 ## Insertion image
+
 Pour un bon référencement, privilégiez l'usage d'images au format JPG !
 
 Là où nous avons apporté le plus d'améliorations, est sur l'insertion des images.
@@ -79,7 +80,7 @@ Les options "**A gauche 25%, 33% et 50%**" et "**A droite 25%, 33% et 50%**" aff
 ## Forcer une nouvelle ligne
 
 Très utile lorsque les bloc de texte lié à des images se chevauchent.  
-Placez votre curseur à la fin d'un paragraphe et cliquez sur le bouton "**Forcer nouvelle ligne**".   
+Placez votre curseur à la fin d'un paragraphe et cliquez sur le bouton "**Forcer nouvelle ligne**".  
 Cette action forcera le contenu situé en dessous du paragraphe d'occuper la totalité de la largeur disponible \(et donc de ne plus chevaucher le contenu situé au-dessus\).
 
 ![insertion dune nouvelle ligne &quot;forc&#xE9;e&quot;](../.gitbook/assets/capt-ecran-2019-05-29-a-15.14.28.jpg)
@@ -94,10 +95,11 @@ Elle affichera une fine ligne horizontale grise claire. Elle occupera 100% de la
 
 ## Insertion vidéo Youtube
 
-Nous avons conçu un module aussi simple que possible pour insérer des vidéos du Youtube dans vos pages.
-Vous n'avez qu'à renseigner l'URL ou le lien de partage de la vidéo et cliquer [ Insérer la vidéo ]
-La vidéo sera "responsive" et sera insérée là où est positionné votre curseur.
+![Bouton insertion vid&#xE9;o Youtube](../.gitbook/assets/insert-youtube-video.jpg)
+
+Nous avons conçu un module aussi simple que possible pour insérer des vidéos du Youtube dans vos pages. Vous n'avez qu'à renseigner l'URL ou le lien de partage de la vidéo et cliquer \[ Insérer la vidéo \] La vidéo sera "responsive" et sera insérée là où est positionné votre curseur.
 
 ## Pour finir
 
 Rien ne vaut la pratique pour assimiler le fonctionnement de cet outil, que nous espérons avoir simplifiez au maximum pour un usage aisé.
+

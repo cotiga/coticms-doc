@@ -1,10 +1,8 @@
-<p align="center"><a href="https://doc.cotiga.fr/" target="_blank"><img width="180" src="https://cotiga.fr/images/cotiga-loader.png"></a></p>
-
----
-description: Guide d'utilisation du CMS COTIGA
----
-
 # CMS COTIGA
+
+### description: Guide d'utilisation du CMS COTIGA
+
+## CMS COTIGA
 
 ![](.gitbook/assets/capt-ecran-2019-05-21-a-12.23.03.jpg)
 
@@ -19,3 +17,4 @@ En utilisant le CMS COTIGA, vous bénéficiez :
 * de fonctionnalités développées sur mesure selon vos souhaits
 
 Tout cela de la manière la plus ergonomique et intuitive possible.
+
