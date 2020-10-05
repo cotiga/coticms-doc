@@ -61,3 +61,5 @@ Exemple de mauvais noms
 Pour info et optimisation, il est aujourd'hui conseillé de se servir de plateformes dites Cloud pour héberger et partager vos fichiers volumineux \(vidéos, gros PDF, ...\). Ces services vous permettent en générales de crée des liens de partage.  
 Liens que vous pourrez intégrer avec l'éditeur de contenu _\(_[_champ texte riche_](https://doc.cotiga.fr/documentation/contenu-champ-texte-riche)_\)_.
 
+### CONSEIL
+Préférez le format d'image JPG au PNG. Le PNG est beaucoup plus "lourd" et pénalisera la rapidité d'affichage de votre site.
