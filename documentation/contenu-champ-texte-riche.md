@@ -65,14 +65,14 @@ Il contient les options de dimension et d'alignement des images.
 Par défaut, **100%  
 L**'image occupera toute la largeur.
 
-Les options **25, 50 et 75 %** afficheront les images au pourcentage indiqué par rapport à la largeur du bloc contenant le texte \(le rendu ne sera pas visible dans l'éditeur, il faudra enregistrer et visualiser le résultat sur le site\).  
+Les options **25, 33, 50 et 75 %** afficheront les images au pourcentage indiqué par rapport à la largeur du bloc contenant le texte \(le rendu ne sera pas visible dans l'éditeur, il faudra enregistrer et visualiser le résultat sur le site\).  
 Ces options de pourcentage ont la particularité de pouvoir mettre plusieurs images sur une même ligne \(à condition que le total ne dépasse pas 100%\).
 
 **Astuce** pour centrer plusieurs images occupant moins de 100% de largeur \(exemple : 2 images à 25%\), placez le curseur à une extrémité des images \(sans qu'une image ne soit sélectionnée\) et cliquez sur l'icône "Centrer" \(centrer le texte\).
 
-Les options "**Centre 25, Centre 50 et Centre 75 %**" afficheront l'image sur une ligne et centrée. Rien ne s'affichera sur les cotés de l'image.
+Les options "**Centrée 50 et Centrée 75 %**" afficheront l'image sur une ligne et centrée. Rien ne s'affichera sur les cotés de l'image.
 
-Les options "**Gauche 25 et Gauche 50%**" et "**Droite 25 et Droite 50 %**" afficheront l'image au pourcentage choisi à coté du texte \(démo sur figure ci-dessous\).
+Les options "**A gauche 25%, 33% et 50%**" et "**A droite 25%, 33% et 50%**" afficheront l'image au pourcentage choisi à coté du texte \(démo sur figure ci-dessous\).
 
 ![](../.gitbook/assets/coti-cms-tinymce-img-align.gif)
 
