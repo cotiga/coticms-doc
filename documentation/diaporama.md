@@ -7,7 +7,10 @@ description: Images panoramiques défilant en haut des pages en étant pourvu
 La dimension des images du diaporama est selon la charte graphique du site.
 
 Elle sont généralement aux alentours de :  
-1680 pixels de large sur 550 pixels de hauteur  
+1680 pixels de large sur 550 pixels de hauteur.
+
+## Important
+Privilégiez les images au format JPG, beaucoup plus léger que le PNG !
 
 Lorsque vous ajoutez des images aux diaporamas, elle seront automatiquement redimensionnées aux valeurs prédéfinies de votre site. Le rognage verticale se fera à parts égales sur le haut et le bas de l'image, prévoyez donc des images se prêtant à se découpage dans la hauteur.
 
