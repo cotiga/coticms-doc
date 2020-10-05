@@ -92,7 +92,12 @@ Elle affichera une fine ligne horizontale grise claire. Elle occupera 100% de la
 
 ![insertion barre horizontale](../.gitbook/assets/capt-ecran-2019-05-29-a-15.14.41.jpg)
 
+## Insertion vidéo Youtube
+
+Nous avons conçu un module aussi simple que possible pour insérer des vidéos du Youtube dans vos pages.
+Vous n'avez qu'à renseigner l'URL ou le lien de partage de la vidéo et cliquer [ Insérer ]
+La vidéo sera "responsive" et sera insérée là où est positionné votre curseur.
+
 ## Pour finir
 
 Rien ne vaut la pratique pour assimiler le fonctionnement de cet outil, que nous espérons avoir simplifiez au maximum pour un usage aisé.
-
