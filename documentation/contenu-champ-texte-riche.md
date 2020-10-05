@@ -97,7 +97,7 @@ Elle affichera une fine ligne horizontale grise claire. Elle occupera 100% de la
 
 ![Bouton insertion vid&#xE9;o Youtube](../.gitbook/assets/insert-youtube-video.jpg)
 
-Nous avons conçu un module aussi simple que possible pour insérer des vidéos du Youtube dans vos pages. Vous n'avez qu'à renseigner l'URL ou le lien de partage de la vidéo et cliquer \[ Insérer la vidéo \] La vidéo sera "responsive" et sera insérée là où est positionné votre curseur.
+Nous avons conçu un module aussi simple que possible pour insérer des vidéos Youtube dans vos pages. Vous n'avez qu'à renseigner l'URL ou le lien de partage de la vidéo et cliquer \[ Insérer la vidéo \] La vidéo sera "responsive" et sera insérée là où est positionné votre curseur.
 
 ## Pour finir
 
