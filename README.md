@@ -2,7 +2,7 @@
 
 ### description: Guide d'utilisation du CMS COTIGA
 
-<sub><sup>Pour les utilisateurs de la solution COTIMMO, une documentation spécifique est en cours de rédaction</sup></sub>
+<small>Pour les utilisateurs de la solution COTIMMO, une documentation spécifique est en cours de rédaction</small>
 
 ## CMS COTIGA
 
