@@ -2,6 +2,8 @@
 
 ### description: Guide d'utilisation du CMS COTIGA
 
+<sub><sup>Pour les utilisateurs de la solution COTIMMO, une documentation spécifique est en cours de rédaction</sup></sub>
+
 ## CMS COTIGA
 
 ![](.gitbook/assets/capt-ecran-2019-05-21-a-12.23.03.jpg)
@@ -17,4 +19,3 @@ En utilisant le CMS COTIGA, vous bénéficiez :
 * de fonctionnalités développées sur mesure selon vos souhaits
 
 Tout cela de la manière la plus ergonomique et intuitive possible.
-
