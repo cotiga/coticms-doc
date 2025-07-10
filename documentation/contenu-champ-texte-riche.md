@@ -101,7 +101,9 @@ Nous avons conçu un module aussi simple que possible pour insérer des vidéos 
 
 ## Pour finir
 
-N'oubliez pas d'enregistrer l'ajout ou la modification de votre contenu via le bouton bleu \[ Enregistrer \] en bas de page
+N'oubliez pas d'enregistrer l'ajout ou la modification de votre contenu via le bouton bleu \[ Enregistrer \] en bas de page.
+![Bouton ENREGISTREMENT](../.gitbook/assets/bouton-enregistrement.jpg)
+
 
 Rien ne vaut la pratique pour assimiler le fonctionnement de cet outil, que nous espérons avoir simplifiez au maximum pour un usage aisé.
 
